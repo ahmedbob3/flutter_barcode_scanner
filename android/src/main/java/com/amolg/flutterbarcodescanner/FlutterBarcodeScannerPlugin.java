@@ -1,7 +1,4 @@
-/**
- * FlutterBarcodeScannerPlugin
- */
-package com.amolg.flutterbarcodescanner;
+package android.src.main.java.com.amolg.flutterbarcodescanner;
 
 import android.app.Activity;
 import android.app.Application;
